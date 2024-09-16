@@ -3,7 +3,7 @@
 
 # Air-BNB Travel Data Analysis Project 📊
 
-# ❓Exploring Airbnb’s Expansion in Personalized Travel Experiences: A Data-Driven Analysis of NYC Homestays
+# ❓ Problem Statement
 
 Since 2008, guests and hosts have used AirBNB to expand on travelling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in Amsterdam for 2017. The analysis aims to draw insights from the data obtained from the listing activity of homestays in Amsterdam. Some research questions need to be answered with respect to all the listings of past booking information. To draw insights develop a report by Extracting-Transforming-Loading of data which contains listings of the past booking information. Analyze the data with respect to the Host, the neighbourhood, and customer pricing and reviews.
 
@@ -24,7 +24,7 @@ Since 2008, guests and hosts have used AirBNB to expand on travelling possibilit
 
 Watch the complete Dashboard video [Link](https://youtu.be/pcIoGYGFVzU?si=1v-wSFodYY6Ny8L1)
 
-# ✔️ Key Insights from NYC Airbnb Homestay Analysis
+# ✔️ Conclusion
 
 Our comprehensive analysis of Airbnb homestays in New York City reveals intriguing trends and preferences in customer behavior, host success, and pricing strategies. Below are the standout findings:
 
@@ -47,15 +47,15 @@ These insights offer a clear understanding of the current trends in the New York
 
 # 🗂 Documentation
 
-High Level Design Document [Link]((https://github.com/user-attachments/files/17016002/HLD.BusinessAnalyst.iN.pdf)
-)
+High Level Design Document [Link](https://github.com/user-attachments/files/17016002/HLD.BusinessAnalyst.iN.pdf)
+
 
 Low Level Design Document [Link](https://github.com/user-attachments/files/17016022/LLD.BA.iN.pdf)
 
 
 
 Architecture [Link](https://github.com/user-attachments/files/17016038/BA.Architecture.iN.pdf)
-)
+
 
 WireFrame  [Link](https://github.com/user-attachments/files/17016041/BA.Wireframe.iN.pdf)
 
