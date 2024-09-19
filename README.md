@@ -67,4 +67,4 @@ Report [Link](https://github.com/user-attachments/files/17016051/Air-BNB.Data.An
 
 # 📩 Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/mayankyadv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/nitish-kr-dash/)
