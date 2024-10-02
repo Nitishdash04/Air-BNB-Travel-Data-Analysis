@@ -1,5 +1,6 @@
 # AirBNB-project
-![image](https://github.com/user-attachments/assets/930bb8fb-d772-4dca-86dc-7bb03c7b8eae)
+![image](https://github.com/user-attachments/assets/a988459d-f619-40d9-b3d3-c891f7d4778c)
+
 
 # Air-BNB Travel Data Analysis Project 📊
 
